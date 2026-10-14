@@ -1,0 +1,7 @@
+{
+    "futebol":  ["futebol/1.jpg",  "futebol/2.jpg",  "futebol/3.jpg"],
+    "vôlei":    ["vôlei/1.jpg",    "vôlei/2.jpg",    "vôlei/3.jpg"],
+    "volei":    ["vôlei/1.jpg",    "vôlei/2.jpg",    "vôlei/3.jpg"],
+    "basquete": ["basquete/1.jpg", "basquete/2.jpg", "basquete/3.jpg"],
+    "surfe":    ["surfe/1.jpg",    "surfe/2.jpg",    "surfe/3.jpg"]
+}
